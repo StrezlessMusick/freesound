@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^5.3.2",
     "classlist-polyfill": "^1.2.0",
     "core-js": "^3.6.1",
     "element-closest": "^3.0.1",
