@@ -43,7 +43,7 @@
     "lodash.throttle": "^4.1.1",
     "normalize.css": "^8.0.1",
     "player": "^0.6.1",
-    "regenerator-runtime": "^0.13.3",
+    "regenerator-runtime": "^0.13.11",
     "whatwg-fetch": "^3.0.0"
   }
 }
