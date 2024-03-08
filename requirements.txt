@@ -52,3 +52,4 @@ xlrd==2.0.1  # for reading .xls files (but not .xlsx)
 openpyxl==3.1.0  # for reading .xlsx files (but not .xls)
 zenpy==1.1.3
 jinja2==3.0.3  # This version needed for sphinx to not raise errors
+jwcrypto>=1.5.6 # not directly required, pinned by Snyk to avoid a vulnerability
